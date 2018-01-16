@@ -1,0 +1,75 @@
+body{
+    width: 1048px;
+
+}
+
+nav{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: darkgray;
+}
+
+#name{
+    width: 33%;
+    background: orange;
+    padding: 20px;
+    margin-left: 50px;
+    overflow: auto;
+    text-align: center;
+    float: left;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+    float: left;
+    left: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+hr{
+    margin-bottom: 20px;
+}
+
+#about_me{
+    float: left;
+    width: 600px;
+    margin-left: 25px;
+}
+
+#connect{
+    float: right;
+    width: 200px;
+    margin-left: 25px;
+    margin-right: 50px;
+}
+
+.connect_box {
+    width: 225px;
+    height: 150px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    margin-right: 50px;
+    float: right;
+}
+
+.about_me_box {
+    margin-left: 50px;
+    width: 650px;
+    height: 700px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
+
+p{
+    padding-right: 20px;
+    padding-left: 20px;
+}
