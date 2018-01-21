@@ -70,13 +70,13 @@ a:hover {
 }
 
 /*img hover*/
-a1 img:last-child {
+.a1 img:last-child {
     display: none;
 }
-a1:hover img:last-child {
+.a1:hover img:last-child {
     display: block;
 }
-a1:hover img:first-child {
+.a1:hover img:first-child {
     display: none;
 }
 
@@ -125,7 +125,7 @@ hr{
     text-align: center;
 }
 
-#profile_pic {
+.profile_pic {
     width: 200px;
     height: 300px;
     float: left;
