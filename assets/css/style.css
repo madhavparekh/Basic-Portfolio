@@ -209,13 +209,13 @@ input[type=submit]:hover {
     background-color: #45a049;
 }
 
-label, input{
-    margin-left: 25px;
-}
-
 label{
     display: inline-block;
     margin: 6px;
+}
+
+label, input{
+    margin-left: 25px;
 }
 
 /*portfolio css*/
