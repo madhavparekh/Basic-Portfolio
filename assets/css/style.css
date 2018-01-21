@@ -211,10 +211,10 @@ input[type=submit]:hover {
 
 label{
     display: inline-block;
-    margin: 6px;
+    margin: 6px 6px 6px 25px;
 }
 
-label, input{
+input{
     margin-left: 25px;
 }
 
